@@ -7,8 +7,8 @@ A personal portfolio made for ICS Extra Credit 2025.
 ![image](https://github.com/user-attachments/assets/299552e7-ed13-497e-9590-268ab858beaf)
 ![image](https://github.com/user-attachments/assets/fc782c27-5868-4467-a715-1719e330f8e3)
 
-The website contains a personal portfolio coded in HTML and CSS. 
-To run the website, download the files on your computer, and open the index.html file in a web browser. The index.html file connects to about.html, contact.html, projects.html, and resume.html. 
-Images contained in the webpage are held in public/assets/images.
-The styles.css file under public/css connects into each html page. 
-The directory is set with html files in root directory, with a public folder containing styling elements and images.
+The website contains a personal portfolio coded in HTML and CSS.   
+To run the website, download the files on your computer, and open the index.html file in a web browser. The index.html file connects to about.html, contact.html, projects.html, and resume.html.  
+Images contained in the webpage are held in public/assets/images.  
+The styles.css file under public/css connects into each html page.   
+The directory is set with html files in root directory, with a public folder containing styling elements and images.  
